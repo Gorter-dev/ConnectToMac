@@ -7,9 +7,11 @@ Usage:
 
 from setuptools import setup
 
-APP = ['adbServices.py']
+APP = ['connectToMac.py']
 DATA_FILES = []
-OPTIONS = {}
+OPTIONS = {
+    'iconfile':'ctm.icns',
+}
 
 setup(
     app=APP,
