@@ -3,6 +3,7 @@ import tkinter as tk
 import os
 import textwrap
 import webbrowser
+import subprocess
 
 global clicked
 global ip
