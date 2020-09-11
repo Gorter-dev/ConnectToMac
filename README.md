@@ -6,7 +6,9 @@ ONLY ANDROID AND MAC.
 
 ## Download
 
-The pre-compiled version can be downloaded at: [Sourceforge](https://sourceforge.net/projects/connect-phone-mac/)
+The pre-compiled version can be downloaded at:
+
+[![Download ConnectToMac](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/connect-phone-mac/files/latest/download)
 
 ## Installation
 
