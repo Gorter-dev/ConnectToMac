@@ -28,6 +28,20 @@ python3 setup.py py2app --emulate-shell-environment
 
 Insert IP and press the button to connect to your android device.
 
+### First time using program
+
+You have to plug in your device and allow usb debugging. 
+
+Then restart the service by:
+
+```bash
+adb tcpip 5555
+```
+
+Now you should be able to connect wirelessly.
+
+NOTE: You can connect to multiple devices at the same time.
+
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
