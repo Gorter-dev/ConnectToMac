@@ -4,12 +4,6 @@ ConnectToMap is a python script with a tkinter GUI. All it basically is execute 
 
 ONLY ANDROID AND MAC.
 
-## Download
-
-The pre-compiled version can be downloaded at:
-
-[![Download ConnectToMac](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/connect-phone-mac/files/latest/download)
-
 ## Installation
 
 To run the script:
